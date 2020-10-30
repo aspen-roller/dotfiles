@@ -3,6 +3,11 @@ This is based off work by Nick Janetakis, reference his [dotfiles repo](https://
 
 # Getting Started
 
+## .profile
+
+### CDPATH
+Update the logic to point to your personal working directories.
+
 ## Ubuntu 20.04
 
 ```bash
