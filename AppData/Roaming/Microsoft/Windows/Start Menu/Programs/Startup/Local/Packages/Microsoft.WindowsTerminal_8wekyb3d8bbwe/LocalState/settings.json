@@ -27,9 +27,9 @@
     {
         "defaults":
         {
-            // https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/AnonymousPro.zip
-            "fontFace": "Anonymice Nerd Font",
-            "fontSize": 14
+            // https://www.nerdfonts.com/font-downloads
+            "fontFace": "DroidSansMono Nerd Font",
+            "fontSize": 11
         },
         "list":
         [
