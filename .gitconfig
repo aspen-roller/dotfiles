@@ -4,5 +4,9 @@
 [color "diff"]
 	whitespace = red reverse
 
+[user]
+	name = James Roller, Jr.
+	email = james.roller@aspencapital.com
+	
 [include]
 	path = ~/.gitconfig.user
