@@ -38,3 +38,11 @@ set tabstop=2
 set textwidth=0
 set undodir=/tmp
 set wrap
+
+" -----------------------------------------------------------------------------
+" Basic mappings
+" -----------------------------------------------------------------------------
+
+" Prevent x from overriding what's in the clipboard.
+noremap x "_x
+noremap X "_x
