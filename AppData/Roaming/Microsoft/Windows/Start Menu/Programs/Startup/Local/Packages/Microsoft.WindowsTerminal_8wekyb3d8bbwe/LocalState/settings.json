@@ -27,9 +27,11 @@
     {
         "defaults":
         {
+            "acrylicOpacity": 0.75,
             // https://www.nerdfonts.com/font-downloads
             "fontFace": "DroidSansMono Nerd Font",
-            "fontSize": 11
+            "fontSize": 11,
+            "useAcrylic": true
         },
         "list":
         [
