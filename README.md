@@ -39,6 +39,7 @@ git clone https://github.com/aspen-roller/dotfiles ~/dotfiles
 mkdir -p ~/.local/bin \
   && ln -s ~/dotfiles/.aliases ~/.aliases \
   && ln -s ~/dotfiles/.bashrc ~/.bashrc \
+  && ln -s ~/dotfiles/.bashrc.oh-my-bash ~/.bashrc.oh-my-bash \
   && ln -s ~/dotfiles/.gitconfig ~/.gitconfig \
   && ln -s ~/dotfiles/.profile ~/.profile \
   && ln -s ~/dotfiles/.tmux.conf ~/.tmux.conf \

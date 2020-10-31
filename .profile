@@ -1,6 +1,10 @@
 #!/bin/bash
 # This file runs once at login.
 
+if [ -f "$HOME/.bashrc.oh-my-bash" ]; then
+    . "$HOME/.bashrc.oh-my-bash"
+fi
+
 # automatically start ssh-agent
 if [ -z "$SSH_AUTH_SOCK" ]; then
    # Check for a currently running instance of the agent
