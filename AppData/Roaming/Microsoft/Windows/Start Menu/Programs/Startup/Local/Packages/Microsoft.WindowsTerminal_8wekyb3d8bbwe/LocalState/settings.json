@@ -28,8 +28,7 @@
         "defaults":
         {
             "acrylicOpacity": 0.75,
-            // https://www.nerdfonts.com/font-downloads
-            "fontFace": "DroidSansMono Nerd Font",
+            "fontFace": "Cascadia Code PL",
             "fontSize": 11,
             "useAcrylic": true
         },

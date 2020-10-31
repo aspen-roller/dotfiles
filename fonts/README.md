@@ -5,3 +5,5 @@
     1. **Start** => **Settings** => **Personalization** => **Fonts**
     1. Select font to remove
     1. Under **Metadata**, select **Uninstall**
+
+## [Droid Sans Mono](https://www.nerdfonts.com/font-downloads)
