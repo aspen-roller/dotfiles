@@ -7,6 +7,9 @@
 [user]
 	name = James Roller, Jr.
 	email = james.roller@aspencapital.com
-	
+
+[url "https://"]
+	insteadOf = git://
+
 [include]
 	path = ~/.gitconfig.user
