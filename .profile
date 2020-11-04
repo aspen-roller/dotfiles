@@ -33,11 +33,14 @@ export EDITOR="vim"
 if [ -d "$HOME/work" ] ; then
     export CDPATH="$HOME/work"
 fi
+if [ -d "$HOME/work/bitbucket.org/aspencapital" ] ; then
+    export CDPATH="$CDPATH:$HOME/work/bitbucket.org/aspencapital"
+fi
 if [ -d "$HOME/work/bitbucket.org/roller-aspen" ] ; then
-    export CDPATH="$HOME/work/bitbucket.org/roller-aspen"
+    export CDPATH="$CDPATH:$HOME/work/bitbucket.org/roller-aspen"
 fi
 if [ -d "$HOME/work/github.com/aspen-roller" ] ; then
-    export CDPATH="$HOME/work/github.com/aspen-roller"
+    export CDPATH="$CDPATH:$HOME/work/github.com/aspen-roller"
 fi
 
 # Add colors to the less and man commands.
